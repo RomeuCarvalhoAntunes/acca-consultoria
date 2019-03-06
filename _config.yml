@@ -5,7 +5,8 @@ title: ACCA Consultoria
 description: Acca Consultoria.
 keywords: Acca,Acca-consultoria,consultoria
 baseurl:  /acca-consultoria # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://romeucarvalhoantunes.github.io/acca-consultoria/  # url should be 'http://<github_username>.github.io/homepage' as before
+url: https://romeucarvalhoantunes.github.io/acca-consultoria/ # url should be 'http://<github_username>.github.io/homepage' as before
+# https://romeucarvalhoantunes.github.io/acca-consultoria/
 # url: http://127.0.0.1:4000
 img_path: /acca-consultoria/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
