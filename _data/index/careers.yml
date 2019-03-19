@@ -1,29 +1,58 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Company Novartis
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Atuando no mercado privado e uma das pioneiras para atenção do mercado de saúde suplementar, fui responsável por três importantes Regiões do País, contribuindo para uma sólida participação neste mercado e com grandes resultados nas Unimed´s, Seguradoras e Medicina de Grupo.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: 2009
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Key Accont Maneger – Canal Privado
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: Company Actelion Pharmaceuticals
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Atuação no mercado público no mercado de doenças raras levando a expansão de território frente ao excelente resultado alcançado em pouco tempo. Com trabalho organizado e persistente atuou frente ao Ministério da Saúde para inclusão de importante terapêutica para HP e inclusão em diversas secretarias de saúdes estaduais. A interação com os diversos players envolvidos neste processo foi responsável por diversas situações de êxito onde o bem maior estava sempre a frente onde a qualidade de vida dos pacientes estavam a frente.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: 2012
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Key Accont Maneger – Canal Privado e Público
     i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Company Industria Química do Estado de Goiás – IQUEGO
+    i18n: company_c
+  desc:
+    detail: Importante experiência de ordenador de despesas frente ao complexo mercado público, ficando com a rica experiência do setor comercial. Um importante momento do mercado de fabricação de medicamentos para atender a Política de Medicamentos Nacional – SUS, onde todo o pátio Nacional passou por relevantes adequações frente as agências de regulação e fiscalização as boas práticas de fabricação de medicamentos e as importantes PDP´s, para o melhor aproveitamento deste grande cenário. Uma interação profunda com o Ministério da Saúde oportunizou execelentes relações duradouras neste mercado de extrema relevância no cenário Brasileiro.
+    i18n: company_c_desc
+  date:
+    detail: 2014
+    i18n: company_c_date
+  job:
+    detail: Diretor Comercial
+    i18n: company_c_job
+  icon: fa-plus-square
+
+
+- name:
+    detail: Company Unimed Paulistana
+    i18n: company_c
+  desc:
+    detail: Frente a Superintendência Comercial, Marketing e Novos Negócios foi responsável por uma importante recuperação desta Operadora de Saúde que configurou com uma das top 10 do mercado nacional. Faturamentos anuais acima de 3,1 bi onde atuação comercial e novas estratégias comerciais trouxeram importantes resultados de recuperação da marca frente aos mais de 30 Munícipios Paulistas de atuação. Visão do mercado de saúde suplementar trouxe excelentes relacionamentos com os mais diversos segmentos deste mercado, passando pela área atuarial, regulatório, pesquisa e desenvolvimento de produtos, atenção as corretoras de vendas de plano de saúde foi fundamental para a recuperação de arrecadação em mais de 50% de crescimento em 8 meses.
+    i18n: company_c_desc
+  date:
+    detail: 2016
+    i18n: company_c_date
+  job:
+    detail: Superintendente Comercial, Marketing e Novos Negócios
+    i18n: company_c_job
   icon: fa-plus-square
